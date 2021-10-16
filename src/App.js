@@ -5,7 +5,12 @@ import Header from './Component/Shared/Header';
 function App() {
   return (
     <div className="App">
-     <Header></Header>
+      <Header></Header>
+      {/* background-img
+background-repa:no-rep
+backgour-size:cover
+background-position:center center;
+background-attac-fixed; */}
     </div>
   );
 }
